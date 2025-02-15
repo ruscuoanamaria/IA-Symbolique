@@ -1,7 +1,3 @@
-# TP IA SYMBOLIQUE
-# 22203313 - Ruscu Oana Maria (Erasmus)
-# 22202055 - Somarandy Adrien
-
 # Game Elements
 
 class cube():
